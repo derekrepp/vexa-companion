@@ -1,6 +1,6 @@
 {
-  "name": "TekConnect.ERP.Companion",
-  "short_name": "TekConnect.ERP.Companion",
+  "name": "Vexa Expenses",
+  "short_name": "Vexa",
   "id": "./",
   "start_url": "./",
   "display": "standalone",

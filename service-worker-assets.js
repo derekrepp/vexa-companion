@@ -1,6 +1,10 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
+      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": ".nojekyll"
+    },
+    {
       "hash": "sha256-BGWC46TeEcHEKNNPFyUXD7epRWv9TBZq\/qJfoIA2eGk=",
       "url": "404.html"
     },
@@ -33,7 +37,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-v2RUrRh4L1sB1i6K2KBZInf6T2MVzvzNLkXqcy5XGps=",
+      "hash": "sha256-+0lIXT5EB5srMGR7VJKa\/1SAQkRIwxDXWGE5poBB7Uo=",
       "url": "manifest.webmanifest"
     },
     {
@@ -269,5 +273,5 @@
       "url": "_content\/Microsoft.Authentication.WebAssembly.Msal\/AuthenticationService.js"
     }
   ],
-  "version": "sF2\/Majg"
+  "version": "iRYi4ulM"
 };
