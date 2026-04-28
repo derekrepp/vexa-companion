@@ -5,7 +5,7 @@
       "url": ".nojekyll"
     },
     {
-      "hash": "sha256-BGWC46TeEcHEKNNPFyUXD7epRWv9TBZq\/qJfoIA2eGk=",
+      "hash": "sha256-g7SulnKp53ULocdy9OKHaqp\/NeacJVNSJFhVpWKHSqM=",
       "url": "404.html"
     },
     {
@@ -33,7 +33,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-Rt5FdUmmH8C4Q4NkayBjnc3\/506+dcg9BQGBaLb2gtk=",
+      "hash": "sha256-TdpUvPzTrths30CWLvANLxT6c25JRKqZNlKOPSw2udg=",
       "url": "index.html"
     },
     {
@@ -273,5 +273,5 @@
       "url": "_content\/Microsoft.Authentication.WebAssembly.Msal\/AuthenticationService.js"
     }
   ],
-  "version": "iRYi4ulM"
+  "version": "WrHltm3b"
 };
