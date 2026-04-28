@@ -77,7 +77,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-VGqL86fGTPQds5jaHV91Ifqjm5LlrOi9TBxki+VdGmk=",
+      "hash": "sha256-tmRBil7H+rNQwfbrXSQ7N5tz8bUImRO3iSCrMbisNzI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -253,7 +253,7 @@
       "url": "_framework\/System.wasm"
     },
     {
-      "hash": "sha256-j4EmL+IrmJ5EjNcm26keuZE6x6QVpPNEVz58f+6NG9Y=",
+      "hash": "sha256-MNd9eOs5brYno7uW6GmypEyd9sPYW2HSZwYIH1uN63Y=",
       "url": "_framework\/TekConnect.ERP.Companion.wasm"
     },
     {
@@ -273,5 +273,5 @@
       "url": "_content\/Microsoft.Authentication.WebAssembly.Msal\/AuthenticationService.js"
     }
   ],
-  "version": "WrHltm3b"
+  "version": "jvYyAf8J"
 };

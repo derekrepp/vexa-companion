@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TekConnect.ERP.Companion",
   "resources": {
-    "hash": "sha256-1jrPe9AVcu5TonwkMxV4j40trrReiN6OmkaekQGkDag=",
+    "hash": "sha256-+rKWqSfz03SBe9oND4k6+52G22Zf8unb8uAgLtbVYew=",
     "jsModuleNative": {
       "dotnet.native.8.0.26.757ye4v4yf.js": "sha256-nElGk+CZFyq0PbPm4JU8avD6lER7x9Z1C54BK7qY12Q="
     },
@@ -60,7 +60,7 @@
       "System.Text.Json.wasm": "sha256-IHEVCswbnuShmf15mAvPS7b9XGC7mLNo/CAotsr0drY=",
       "System.Text.RegularExpressions.wasm": "sha256-t7Lid6gWSi4pImqrn+xSTobrpgELxnYpM4OksaVB6II=",
       "System.wasm": "sha256-2oXRX+N25IPG95Q7jiUMMD19je6kQbQXFJ4V2cvp6lM=",
-      "TekConnect.ERP.Companion.wasm": "sha256-j4EmL+IrmJ5EjNcm26keuZE6x6QVpPNEVz58f+6NG9Y="
+      "TekConnect.ERP.Companion.wasm": "sha256-MNd9eOs5brYno7uW6GmypEyd9sPYW2HSZwYIH1uN63Y="
     }
   },
   "cacheBootResources": true,
